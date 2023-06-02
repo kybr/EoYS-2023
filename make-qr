@@ -1,0 +1,11 @@
+#!/usr/bin/env perl
+
+while(<>) {
+  /h2 id="(.*?)"/ and do {
+    my $URL = "http://show.mat.ucsb.edu/#$1";
+    print "$URL\n";
+    print `qrencode '$URL' -l M -d 144 -t PNG -s 20 -o qr/$1.png`;
+    #print `qrencode '$URL' -l M -t UTF8 -o qr/$1.txt`;
+  }
+}
+

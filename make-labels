@@ -1,0 +1,15 @@
+#!/usr/bin/env perl
+
+for (`ls -a qr/`) {
+  chomp;
+  my $image_file = $_;
+  my @thing = split(/\./);
+  if ($thing[1] =~ /png/) {
+    my $md_file = "qr/$thing[0].md";
+    print "$md_file\n";
+    my $text = uc(join(' | ', split(/-/, $thing[0])));
+    open(FH, '>', $md_file) or die $!;
+    print FH "![]($image_file)\n\n# $text\n\n";
+  }
+}
+
