@@ -7,9 +7,9 @@ for (`ls -a qr/`) {
   if ($thing[1] =~ /png/) {
     my $md_file = "qr/$thing[0].md";
     print "$md_file\n";
-    my $text = uc(join(' | ', split(/-/, $thing[0])));
+    my $text = join(' | ', split(/-/, $thing[0]));
     open(FH, '>', $md_file) or die $!;
-    print FH "![]($image_file)\n\n# $text\n\n";
+    print FH "![]($image_file)\n\n\n\n\n\n\n$text";
   }
 }
 

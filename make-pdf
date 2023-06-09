@@ -1,0 +1,16 @@
+pandoc -f markdown -t pdf alan-macy-sbcast.md -o alan-macy-sbcast.pdf
+pandoc -f markdown -t pdf artificial-nature-haru-ji-graham-wakefield-sbcast.md -o artificial-nature-haru-ji-graham-wakefield-sbcast.pdf
+pandoc -f markdown -t pdf chengyuan-cy-xu-elings.md -o chengyuan-cy-xu-elings.pdf
+pandoc -f markdown -t pdf chris-kallmyer-elings.md -o chris-kallmyer-elings.pdf
+pandoc -f markdown -t pdf danielle-garrison-ryan-mccullough-sbcast.md -o danielle-garrison-ryan-mccullough-sbcast.pdf
+pandoc -f markdown -t pdf deniz-çağlarcan-elings.md -o deniz-çağlarcan-elings.pdf
+pandoc -f markdown -t pdf drew-flieder-sbcast.md -o drew-flieder-sbcast.pdf
+pandoc -f markdown -t pdf iason-paterakis-nefeli-manoudaki-pau-rosello-sbcast.md -o iason-paterakis-nefeli-manoudaki-pau-rosello-sbcast.pdf
+pandoc -f markdown -t pdf iason-paterakis-nefeli-manoudaki-sbcast.md -o iason-paterakis-nefeli-manoudaki-sbcast.pdf
+pandoc -f markdown -t pdf mat-200a-elings.md -o mat-200a-elings.pdf
+pandoc -f markdown -t pdf mat-259-elings.md -o mat-259-elings.pdf
+pandoc -f markdown -t pdf ryan-millett-sbcast.md -o ryan-millett-sbcast.pdf
+pandoc -f markdown -t pdf sam-bourgault-mert-toka-devon-frost-sbcast-elings.md -o sam-bourgault-mert-toka-devon-frost-sbcast-elings.pdf
+pandoc -f markdown -t pdf stejara-dinulescu-sbcast-elings.md -o stejara-dinulescu-sbcast-elings.pdf
+pandoc -f markdown -t pdf translab-research-group-sbcast.md -o translab-research-group-sbcast.pdf
+pandoc -f markdown -t pdf yifeng-yvonne-yuan-sbcast.md -o yifeng-yvonne-yuan-sbcast.pdf

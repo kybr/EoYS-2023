@@ -1,0 +1,46 @@
+#!/usr/bin/env raku
+
+use Data::Dump;
+
+given "index.html".IO.slurp {
+  my @match = m:global/ "<h2" (.*?) "</h2>" /;
+  for @match {
+    / id \= \" $<id>=(.*?) \" / or die;
+    my $id = $<id>.Str;
+    / \> $<author-list>=(.*?) \< / or die;
+    my $author-list = $<author-list>.Str;
+    $author-list = $author-list.words.join(' ');
+    #say $id;
+    #say " -> " ~ $author-list;
+    my $URL = "![](http://show.mat.ucsb.edu/#$id)";
+
+    spurt "qr/$id.md", "
+    ![](http://show.mat.ucsb.edu/#$id
+    $author-list
+    ";
+    say $URL;
+#     print `qrencode '$URL' -l M -d 144 -t PNG -s 20 -o qr/$1.png`;
+  }
+}
+
+# while(<>) {
+#   /h2\s*id="(.*?)"/ and do {
+#     my $URL = "http://show.mat.ucsb.edu/#$1";
+#     print "$URL\n";
+#     print `qrencode '$URL' -l M -d 144 -t PNG -s 20 -o qr/$1.png`;
+#     #print `qrencode '$URL' -l M -t UTF8 -o qr/$1.txt`;
+#   }
+# }
+#for (`ls -a qr/`) {
+#  chomp;
+#  my $image_file = $_;
+#  my @thing = split(/\./);
+#  if ($thing[1] =~ /png/) {
+#    my $md_file = "qr/$thing[0].md";
+#    print "$md_file\n";
+#    my $text = join(' | ', split(/-/, $thing[0]));
+#    open(FH, '>', $md_file) or die $!;
+#    print FH "![]($image_file)\n\n\n\n\n\n\n$text";
+#  }
+#}
+

@@ -10,6 +10,168 @@
 \
 \
 
+## Chris Kallmyer [@ELINGS]
+
+### Song Cycle
+
+![](image/Chris-Kallmyer-Song-Cycle.jpg)
+
+Song Cycle utilizes code-driven randomization to produce a never-ending poem that is at turns joyful, mundane, social, and humorous - a product of chance. The text speculates on the special relationship between architecture and music by proposing new scenarios for music beyond the concert hall. In this way, the piece functions as a work of speculative architecture by proposing alternative contexts as well as social/political/economic functions for music in culture. Song Cycle attempts to bring the kind of attention found in the concert hall back into the world
+
+Song Cycle was commissioned in 2021 by the Los Angeles Philharmonic. Gustavo Dudamel Artistic Director. The piece was created with the LA Phil's Humanities Programs, which is supported by Linda and David Shaheen.
+
+Song Cycle is exhibited at the MAT within the CNSI, UCSB as part of the Systemics Lab Experimental Curatorial Programming, established in 2023 by Professor Marko Peljhan. 
+
+<https://chriskallmyer.com> [@chriskallmyer](https://www.instagram.com/chriskallmyer)
+
+\
+\
+
+------------------------------------------------------------------------
+
+\
+\
+
+## 2023 MAT 259\* [@ELINGS]
+
+\* Instructed by Professor George Legrady with Yixuan Li, Teaching Assistant
+
+### 3D interactive visualization projects realized in the MAT 259 Data Visualization course, Winter 2023
+
+![](image/George-Legrady-Data-Visualization.png)
+
+(The image above shows the work of Arnav Kumar, Brianna Griffin, Qing Huang, Jenni Hutson, Yanchen Lu, Zeyu Wang, and Lu Yang)
+
+
+
+This gallery features students’ work from Winter 2023 MAT259: Visualizing Information. MAT 259 is a project-based course focused on techniques of information retrieval and algorithmic-based visualization. This course concentrates on the fundamentals of data visualization and design, with an emphasis on data query, data analysis and processing, and visualization in 3D interactive spatial visualization. Projects are created with Processing and can be found on the course page.
+
+<https://vislab.mat.ucsb.edu/2023.html>
+
+<https://www.mat.ucsb.edu/~g.legrady/academic/courses/23w259/23w259.html>
+
+
+
+\
+\
+
+------------------------------------------------------------------------
+
+\
+\
+
+
+
+## Yixuan Li | George Legrady | Dan C. Baciu [@ELINGS]
+
+### Equivalence
+
+![](image/Yixuan-Li-Equivalence.png)
+
+Equivalence is a collaborative project of Yixuan Li, Prof. George Legrady, and Prof. Dan C. Baciu. Equivalence is an audio-react interaction installation that creates an experience of real-time language visualization through natural language processing and Image Generative AI. Inspired by how utterances are structured, Equivalence transforms spoken languages into structures in 3D space and visualizes them in a continuously Chinese scrolling painting format. Specifically, Equivalence explores the relationship between grammar (structure) and words (content) in the construction of spoken languages, and maps this relationship into the artwork-creating process of using language analysis to construct image composition and then the stable diffusion model to construct image textures. The work also explores the relationship between Conceptual Art and Generative AI by exploring how ideas are shaped into artwork with step-by-step transitions.
+
+Yixuan Li’s webpage: <https://tiffanylyx.github.io/YixuanLi/About_Me.html>
+
+George Legrady’s webpage: <https://www.mat.ucsb.edu/legrady>
+
+Dan C. Baciu’s webpage: <https://baciu.online>
+
+
+
+\
+\
+
+------------------------------------------------------------------------
+
+\
+\
+
+## MAT 200A\* [@ELINGS]
+
+\* Jenni Hutson | Roger Lin | Panteha Abareshi | Alexis Story Crawshaw | Sabina Ahn
+
+### Inter-Play
+
+![](image/Inter-Play-MAT-200A.png)
+
+Inter-Play is a distributed group performance in different media.  Content is transferred and translated into different media by each of  the performers to create an emergent distributed result. Poetically, the work explores ideas around communication and translation, especially  through digital media, including between and across the senses,  emotions, speech, and ideas. In particular, this piece plays with the  idea of pattern formation and related meaning-making. The networked  performance also leverages problems around information transfer as  features, including latency, misunderstanding, data loss, and artifacts.
+
+\
+\
+
+------------------------------------------------------------------------
+
+\
+\
+
+## Deniz Çağlarcan [@ELINGS]
+
+### Shadows
+
+![](image/Deniz-Caglarcan-Shadows.jpg)
+
+"Shadows" is a transdisciplinary artwork by Deniz Çağlarcan, featuring selected oil paintings from Güneş Çağlarcan’s "Shadow Collection". The piece contemplates the intricacies of human social connections, recognizing that while individuals have unique traits, they naturally seek relationships. Maslow's hierarchy of needs plays a key role in shaping the artwork, correlating social status with mental states. The artwork uses human figures to create texture, with the brain interpreting acrylic forms as body parts, shadows as directions, and figure mass as detail. Deniz enlarges these figures, enhancing details perceivable by the audience and establishing a narrative. The composition's flow applies a Schaefferian approach, linking gestures by syntactical content and unique morphology. Themes drawn from the paintings provide a formal, semantic structure. The audience's perception ultimately coalesces these elements into a unified artwork.
+
+
+<https://denizcaglarcan.com/shadows>
+
+\
+\
+
+------------------------------------------------------------------------
+
+\
+\
+
+## Chengyuan (CY) Xu [@ELINGS]
+
+### Open Baby Monitor
+
+![](image/CY-Open-Baby-Monitor.jpg)
+
+My passion project as a new parent! Rather than buying more gear, why not repurpose old tech into a baby monitor that fits my needs? Here's the scoop:
+- Web Access: Keep an eye on her crib from anywhere, on any device.
+- Sleep Tracker: A deep-learning model checks whether she is in the crib and tracks her sleep quality.
+- Camera Control: Swap video feeds for different lighting conditions, or even flash on some light.
+- Secure: Password-protected.
+- Wallet-friendly: All you need is an old Android phone and a computer.
+
+<https://github.com/cy-xu/open_baby_monitor>
+
+<https://cyxu.tv/>
+
+
+
+\
+\
+
+------------------------------------------------------------------------
+
+\
+\
+
+## Stejara Dinulescu [@SBCAST | @ELINGS]
+
+### The Mayor
+
+![](image/Stejara-Dinulescu-Mayor.jpg)
+
+An army of drawing machines are hard at work, generating small  postcards that depict early visual elements of our show. Despite being  made by a robotic system, the prints retain hand-drawn characteristics  and serendipidious accidents that illustrate the sharing of autonomy  between human designer and executing machine. The mechanical sounds of  the drawing machines at work are captured and dispersed throughout  latent * ville.
+
+Please feel free to take a creation generated by our Mayors. Related work can be found at [stejarasart.com/MotivatedGestures](http://stejarasart.com/MotivatedGestures).
+
+
+
+\
+\
+
+------------------------------------------------------------------------
+
+\
+\
+
+
+
 ## Alan Macy [@SBCAST]
 
 ### Listening to Trees
@@ -46,7 +208,9 @@ In this performance installation, the public is invited to consider the sensatio
 \
 \
 
-## Sam Bourgault | Mert Toka | Devon Frost [@SBCAST]
+## Expressive Computation Lab Team\* [@SBCAST | @ELINGS]
+
+\* Sam Bourgault | Mert Toka | Devon Frost | Avi Farber | Pilar Wiley
 
 ### *Ceramic Artifacts Demonstrating Digital Systems Developed by the Expressive Computation Lab*
 
@@ -60,6 +224,10 @@ Computational craft embraces forms of automation such as clay 3D printing and ge
 
 <https://devnfrost.com> ~ [@devnfrost](https://www.instagram.com/devnfrost)
 
+<https://www.avifarber.com> ~ [@avi.farber.studio](https://www.instagram.com/avi.farber.studio)
+
+<https://www.pilarwiley.com> ~ [@pattern_language](https://www.instagram.com/pattern_language)
+
 \
 \
 
@@ -68,7 +236,7 @@ Computational craft embraces forms of automation such as clay 3D printing and ge
 \
 \
 
-## Ashley Del Valle | Mert Toka | Alejandro Aponte [@SBCAST]
+## Ashley Del Valle | Mert Toka | Alejandro Aponte [@SBCAST | @ELINGS]
 
 ### *Craft Artifacts Made with PunchPrint: Composite Fiber-Filament Material by Integrating Punch Needle Embroidery and 3D Printing*
 
@@ -117,7 +285,7 @@ relationship between technology and art in our interconnected world.
 \
 \
 
-## Iason Paterakis | Nefeli Manoudaki | Pau Rosello [@SBCAST]
+## Iason Paterakis | Nefeli Manoudaki | Pau Rosello [@SBCAST | @ELINGS]
 
 ### *Echoes*
 
@@ -141,7 +309,9 @@ relationship between technology and art in our interconnected world.
 \
 \
 
-## Artificial Nature (Haru Ji & Graham Wakefield) [@SBCAST]
+## Artificial Nature\* [@SBCAST | @ELINGS ]
+
+\* Haru Ji & Graham Wakefield
 
 ### Dendron Alpha
 
@@ -159,7 +329,7 @@ Dendron Alpha is a site-specific work for projection-mapping at SBCAST (the Sant
 \
 \
 
-## transLAB Research Group\* [@SBCAST]
+## transLAB Research Group\* [@SBCAST | @ELINGS]
 
 \* Marcos Novak: Director; Project team: Nefeli Manoudaki, Iason Paterakis, Diarmid Flatley, Pau Rosello Diaz, Ryan Millett; with Artificial Nature (Haru Ji + Graham Wakefield) and the AlloSphere Research Group (Gustavo Rincon and Kon Hyong Kim)
 
