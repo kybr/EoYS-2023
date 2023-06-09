@@ -1,3 +1,6 @@
 
 
 `brew install qrencode pandoc rakudo-star`
+
+
+pandoc -D latex > latex-pandoc.template

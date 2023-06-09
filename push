@@ -1,4 +1,3 @@
 #!/bin/sh
 echo Tues_Feb_20_18
-pandoc -f markdown -t html -s -o index.html latent-ville.md
 rsync -vr image index.html eoyshow@spectrum2.mat.ucsb.edu:

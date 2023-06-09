@@ -62,7 +62,7 @@ This gallery features students’ work from Winter 2023 MAT259: Visualizing Info
 
 
 
-## Yixuan Li | George Legrady | Dan C. Baciu [@ELINGS]
+## Yixuan Li | George Legrady | Dan C Baciu [@ELINGS]
 
 ### Equivalence
 
